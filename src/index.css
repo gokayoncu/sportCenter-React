@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  font-family: sans-serif;
+  
+}
+Nav,Bmi,Classes,Contact,Footer,Review,Services,Trainers,section, Header{
+  min-height: 100vh;
+}
+a{
+  color: #fff;
+  outline: none;
+}
+
+
+.header-symbol{
+  display: inline-block;
+  margin: 0 45%;
+  background-color: #faa71a;
+  width: 7%;
+  height: .7rem;
+  margin-bottom: 2rem;
+  border-radius: 1rem;
+}
+
+.sectin-text{
+    font-size: 1.3rem;
+    padding: 0 10%;
+}
+
+.sections-header{
+  color: var(--blue-color);
+  font-size: 2rem;
+  font-weight: 800;
+  padding-bottom: 1rem;
+}
