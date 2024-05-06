@@ -1,6 +1,6 @@
 # React + Vite
 
-https://gokayoncu.github.io/sportCenter-React/
+[https://gokayoncu.github.io/sportCenter-React/](https://admirable-toffee-0ae992.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
